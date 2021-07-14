@@ -15,3 +15,4 @@ datashader-work/pyviz-examples/*
 *datashader-examples*
 
 *.vscode*
+.venv/
