@@ -22,7 +22,7 @@ colorlover==0.2.1
 cufflinks==0.14.6
 cycler==0.10.0
 Cython==0.29.24
-dask==1.0.0
+dask==2021.10.0
 decorator==5.0.9
 defusedxml==0.7.1
 distributed==2021.7.0
