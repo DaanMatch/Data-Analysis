@@ -25,7 +25,7 @@ Cython==0.29.24
 dask==1.0.0
 decorator==5.0.9
 defusedxml==0.7.1
-distributed==2021.7.0
+distributed==2021.10.0
 docker==5.0.0
 entrypoints==0.3
 escapism==1.0.1
